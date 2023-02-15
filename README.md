@@ -7,5 +7,6 @@ Simple psp toolset for debian based linux distributions
 - In / out stream management
 - Error management
 - Simple command framework
+- Finding psp through mounts or device bus
 ## Makefile:
 -- Not available --
